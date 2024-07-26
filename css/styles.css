@@ -1,9 +1,9 @@
 
 .WebContainer{
     min-width: 100%;
-    width: auto;
+    width: 100%;
 
-    height: auto;
+    height: 100%;
     min-height: 1600px;
     max-height: 1601px;
 }
@@ -13,7 +13,7 @@ body{
     linear-gradient(90deg, rgba(238, 238, 238,1) 0%, rgba(192, 192, 192,1) 100%);
 
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: contain;
     
     overflow-x: hidden;
 
