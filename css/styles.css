@@ -191,7 +191,7 @@ body{
 
     justify-content: start;
 
-    height: 200px;
+    height: 2000px;
     width: 1000%;
 
     position: relative;
@@ -203,12 +203,12 @@ body{
 
     color: white;
     
-    margin-left: 30px;
+    margin-left: 35px;
 }
 .foot h1{
     font-size: 25px;
 
     color: white;
     
-    margin-left: 40px;
+    margin-left: 45px;
 }
