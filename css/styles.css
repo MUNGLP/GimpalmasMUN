@@ -15,7 +15,7 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
     
-    overflow-x: hidden;
+    overflow-x: clip;
     overflow-y: hidden;
 
     margin: auto;
