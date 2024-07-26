@@ -105,8 +105,8 @@ body{
         linear-gradient(30deg, rgba(29,162,42,1) 30%, rgba(46,213,93,1) 100%) border-box;
 
     display: grid;
-    grid-template-columns: repeat(auto-fit, 5%);
-    grid-template-rows: repeat(auto-fit, 5%);
+    grid-template-columns: repeat(auto-fit, 500px);
+    grid-template-rows: repeat(auto-fit, 500px);
     
     column-gap: 25px;
     row-gap: 75px;
