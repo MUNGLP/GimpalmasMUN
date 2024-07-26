@@ -1,9 +1,9 @@
 
 .WebContainer{
     min-width:100%;
-    width:100%;
+    width:2000px;
 
-    height: 100%;
+    height: 1600px;
     min-height: 1600px;
     max-height: 1601px;
 }
