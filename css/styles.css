@@ -13,7 +13,8 @@ body{
     linear-gradient(90deg, rgba(238, 238, 238,1) 0%, rgba(192, 192, 192,1) 100%);
 
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: initial;
+    
     overflow-x: hidden;
     overflow-y: hidden;
 
