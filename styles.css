@@ -6,7 +6,10 @@ html{
     margin-left: auto;
     margin-right: auto;
 }
-
+a{
+    text-decoration: none;
+    color: black
+}
 
 .top-container{
     display: flex;
